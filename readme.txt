@@ -1,0 +1,2 @@
+=== Plugin Name ===Contributors: jacobandericDonate link: http://jacobanderic.com/Tags: IDRequires at least: 2.7Tested up to: 2.8Stable tag: trunkSimply adds a column in the Admin edit view to show post and page IDs.== Description ==Simply adds a column in the Admin edit view to show post and page IDs.
+== Installation ==1. Upload the file to the "/wp-content/plugins/" directory1. Activate the plugin through the "Plugins" menu in WordPress== Credits ==This plugin was developed by [Jacob and Eric](http://jacobanderic.com "Jacob and Eric").
